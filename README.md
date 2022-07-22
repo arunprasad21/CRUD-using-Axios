@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For UI Tailwind CSS is used and app developed using React JS.
+
 ### run `npm install`
 
 To install all dependencies.
